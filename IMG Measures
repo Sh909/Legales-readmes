@@ -1,0 +1,93 @@
+PRIVACY POLICY - IMG Measures
+
+Last updated: November 3, 2026
+
+This Privacy Policy describes how the IMG Measures app for Android
+(package name: com.imgmeasures.app) handles your information.
+
+In short: IMG Measures does not collect, transmit, sell or share any
+personal data. Everything you create stays on your device.
+
+
+1. DATA WE COLLECT
+
+We do not collect any personal data. The app has no user accounts, no
+analytics, no advertising, no crash reporting services and no
+third-party tracking SDKs. The app does not request internet access and
+does not send any data to us or to any third party.
+
+
+2. PHOTOS AND CAMERA
+
+- Picking photos: when you add a picture, the app uses the Android
+  system photo picker. The app only receives the specific images you
+  choose; it does not have access to the rest of your gallery.
+
+- Taking photos: if you choose to take a photo, the app opens your
+  device's camera app to capture it. IMG Measures does not request the
+  camera permission itself.
+
+- Imported images are copied into the app's private storage on your
+  device so you can add measurements to them. The app reads the image's
+  orientation information only to display it correctly.
+
+
+3. DATA STORED ON YOUR DEVICE
+
+The following information is stored locally, in the app's private
+storage, and never leaves your device unless you decide to share or
+export it:
+
+- The images you import.
+- The folders, measurements, annotations and notes you create.
+- Your app preferences (for example theme and language).
+
+You can delete this data at any time by deleting items inside the app,
+by clearing the app's data in Android Settings, or by uninstalling the
+app.
+
+
+4. EXPORTING AND SHARING
+
+When you choose to export or share your work:
+
+- Exported files are saved to your device's public folders (for
+  example Pictures/IMG_Measures or Downloads/IMG_Measures). On Android 9
+  and lower, the storage permission is requested only for this purpose.
+- Sharing uses the standard Android share menu. The files are sent only
+  to the app or person you select. Any data you share this way is then
+  handled by the receiving app or service under its own privacy policy.
+
+
+5. DEVICE BACKUP
+
+If Android backup is enabled on your device, your app data (images,
+folders and measurements) may be included in your device's backup
+(for example Google's backup service) or in a device-to-device
+transfer. These backups are managed by Android and your backup
+provider, not by us, and you can turn them off in your device settings.
+
+
+6. PERMISSIONS
+
+- Storage (Android 9 and lower only): to save exported files to public
+  folders.
+- Vibration: to provide haptic feedback while you use the editor.
+
+
+7. CHILDREN'S PRIVACY
+
+The app does not knowingly collect any personal information from
+anyone, including children under the age of 13.
+
+
+8. CHANGES TO THIS POLICY
+
+We may update this Privacy Policy from time to time. Any changes will
+be posted on this page with an updated "Last updated" date.
+
+
+9. CONTACT
+
+If you have any questions about this Privacy Policy, please contact us
+at: angelfernadez94.af@gmail.com
