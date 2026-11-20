@@ -1,93 +1,29 @@
-PRIVACY POLICY - IMG Measures
+IMG Measures — Privacy Policy (For iPhone and iPad)
+Last updated: 2026-11-19
 
-Last updated: November 3, 2026
+Summary
+IMG Measures does not collect, store on servers, share or sell any personal data. The app has no internet access and contains no advertising, analytics or tracking services.
 
-This Privacy Policy describes how the IMG Measures app for Android
-(package name: com.imgmeasures.app) handles your information.
+Data on your device
+The photos you take or import, your measurements, folders and settings are saved only in the app's own storage on your iPhone or iPad. From the photo metadata, the app only reads the orientation, to show the image the right way up, and, when an imported photo has no usable name, the date it was taken, to name the file. It does not read the location or any other metadata.
 
-In short: IMG Measures does not collect, transmit, sell or share any
-personal data. Everything you create stays on your device.
+Permissions
+Camera: the app asks for access to the camera only to take photos inside the app. Photos: photos are imported with the system photo picker, so the app only receives the photos you choose and does not need access to your library. Add to Photos: requested only when you save an annotated photo to the Photos app; the app adds the photo without reading your library. If you have already given IMG Measures full access to Photos, it is used only to find or create its “IMG_Measures” album. You can change these permissions at any time in the Settings app.
 
+Exporting and sharing
+Photos are only saved to the Photos app, PDF files are only saved to Files, and files are only shared with other apps through the share sheet when you choose to do so. From then on, they are handled by the app or service you choose, under its own privacy policy.
 
-1. DATA WE COLLECT
+Backups
+If iCloud Backup or a backup to your computer is turned on, the app's photos, measurements and folders can be included in your device backup and restored on a new device. Apple manages this process; you can turn it off in the Settings app.
 
-We do not collect any personal data. The app has no user accounts, no
-analytics, no advertising, no crash reporting services and no
-third-party tracking SDKs. The app does not request internet access and
-does not send any data to us or to any third party.
+Deleting your data
+You can delete photos, measurements and folders inside the app at any time. Deleting the app from your iPhone or iPad removes everything it has stored on the device.
 
+Children
+The app does not collect personal data from anyone, including children.
 
-2. PHOTOS AND CAMERA
+Changes
+If this policy changes, the new version will be published on this page with an updated date.
 
-- Picking photos: when you add a picture, the app uses the Android
-  system photo picker. The app only receives the specific images you
-  choose; it does not have access to the rest of your gallery.
-
-- Taking photos: if you choose to take a photo, the app opens your
-  device's camera app to capture it. IMG Measures does not request the
-  camera permission itself.
-
-- Imported images are copied into the app's private storage on your
-  device so you can add measurements to them. The app reads the image's
-  orientation information only to display it correctly.
-
-
-3. DATA STORED ON YOUR DEVICE
-
-The following information is stored locally, in the app's private
-storage, and never leaves your device unless you decide to share or
-export it:
-
-- The images you import.
-- The folders, measurements, annotations and notes you create.
-- Your app preferences (for example theme and language).
-
-You can delete this data at any time by deleting items inside the app,
-by clearing the app's data in Android Settings, or by uninstalling the
-app.
-
-
-4. EXPORTING AND SHARING
-
-When you choose to export or share your work:
-
-- Exported files are saved to your device's public folders (for
-  example Pictures/IMG_Measures or Downloads/IMG_Measures). On Android 9
-  and lower, the storage permission is requested only for this purpose.
-- Sharing uses the standard Android share menu. The files are sent only
-  to the app or person you select. Any data you share this way is then
-  handled by the receiving app or service under its own privacy policy.
-
-
-5. DEVICE BACKUP
-
-If Android backup is enabled on your device, your app data (images,
-folders and measurements) may be included in your device's backup
-(for example Google's backup service) or in a device-to-device
-transfer. These backups are managed by Android and your backup
-provider, not by us, and you can turn them off in your device settings.
-
-
-6. PERMISSIONS
-
-- Storage (Android 9 and lower only): to save exported files to public
-  folders.
-- Vibration: to provide haptic feedback while you use the editor.
-
-
-7. CHILDREN'S PRIVACY
-
-The app does not knowingly collect any personal information from
-anyone, including children under the age of 13.
-
-
-8. CHANGES TO THIS POLICY
-
-We may update this Privacy Policy from time to time. Any changes will
-be posted on this page with an updated "Last updated" date.
-
-
-9. CONTACT
-
-If you have any questions about this Privacy Policy, please contact us
-at: angelfernadez94.af@gmail.com
+Contact
+Ángel Fernández · angelfernandez94.af@gmail.com
